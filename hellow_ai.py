@@ -1,1 +1,1 @@
-print("Hellow AI Word!")
+print("Hello AI Word!")
