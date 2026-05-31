@@ -35,7 +35,7 @@ print(a*b) #30
 print(a/b) #3.33333333
 print(a//b) #3
 print(a%b) #1
-print(a**b) #100
+print(a**b) #1000
 
 print(a==b) #f
 print(a!=b) #t
