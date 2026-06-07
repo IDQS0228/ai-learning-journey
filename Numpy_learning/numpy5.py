@@ -92,7 +92,7 @@ print(bad_rows)
 clean = np.delete(data,bad_rows,axis=0)
 print(clean)
 
-# 找出带有np.nan的列
+# s删除带有np.nan的列
 bad_lies = np.where(np.isnan(data))[1]
 clean_lies = np.delete(data,bad_lies,axis=1)
 print(clean_lies)
