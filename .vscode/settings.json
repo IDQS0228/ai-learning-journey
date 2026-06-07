@@ -1,4 +1,21 @@
 {
     "python-envs.defaultEnvManager": "ms-python.python:conda",
-    "python-envs.defaultPackageManager": "ms-python.python:conda"
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "cSpell.words": [
+        "amax",
+        "nanargmax",
+        "nanargmin",
+        "nancumprod",
+        "nancumsum",
+        "nanmax",
+        "nanmean",
+        "nanmedian",
+        "nanmin",
+        "nanpercentile",
+        "nanprod",
+        "nanquantile",
+        "nanstd",
+        "nansum",
+        "nanvar"
+    ]
 }
