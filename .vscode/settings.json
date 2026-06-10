@@ -3,6 +3,9 @@
     "python-envs.defaultPackageManager": "ms-python.python:conda",
     "cSpell.words": [
         "amax",
+        "autopct",
+        "figsize",
+        "markersize",
         "nanargmax",
         "nanargmin",
         "nancumprod",
@@ -16,6 +19,10 @@
         "nanquantile",
         "nanstd",
         "nansum",
-        "nanvar"
+        "nanvar",
+        "Pclass",
+        "steelblue",
+        "xlabel",
+        "ylabel"
     ]
 }
