@@ -5,6 +5,7 @@
         "amax",
         "autopct",
         "figsize",
+        "linalg",
         "markersize",
         "nanargmax",
         "nanargmin",
@@ -21,6 +22,7 @@
         "nansum",
         "nanvar",
         "Pclass",
+        "randn",
         "steelblue",
         "xlabel",
         "ylabel"
