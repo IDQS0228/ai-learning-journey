@@ -4,6 +4,8 @@
     "cSpell.words": [
         "amax",
         "autopct",
+        "axhline",
+        "axvline",
         "figsize",
         "linalg",
         "markersize",
@@ -25,6 +27,8 @@
         "randn",
         "steelblue",
         "xlabel",
-        "ylabel"
+        "xlim",
+        "ylabel",
+        "ylim"
     ]
 }
