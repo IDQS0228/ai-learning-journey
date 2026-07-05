@@ -6,6 +6,8 @@
         "autopct",
         "axhline",
         "axvline",
+        "eigvals",
+        "eigvecs",
         "figsize",
         "linalg",
         "markersize",
